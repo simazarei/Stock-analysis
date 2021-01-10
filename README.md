@@ -9,7 +9,7 @@ However, in _2018_ the return rate for almost all of the stocks depreciated, whi
 ### Stock Performance Analysis Conclusion 
 By comparing each ticker between _2017_ and _2018_, it would be realizaed that the daily volume of each ticker is not a reliable factor to analyze the stock market. In adition, to fully understand the stock market, a year of data can not be sufficent. For instance, in this Data Set based on the daily volumes and return rates in _2017_, green energy stocks seem to be a great investment, but after _2018_ data added to the analysis process we can cleary recognize that the flactuion of the return rate for most of the stocks and daily volumes for some of them the green energy stocks is not a stable market to invest all Steve's parents'fund.
 ## Time Execution Analysis
-The execution time for _Original Script_ of VBA for _2017_ is _13267.19_ seconds and in _2018_ it is _13267.19_ seconds. But _Refactored Script_ for _2017_ and _2018_ ran in _1.328125_ and _1.023438_ seconds respectively, which shows code refactoring can be beneficial in terms of **time**. 
+The execution time for _Original Script_ of VBA for _2017_ is _13267.19_ seconds and in _2018_ it is _13267.19_ seconds. But _Refactored Script_ for _2017_ and _2018_ ran in _0.15722_ and _0.16113_ seconds respectively, which shows code refactoring can be beneficial in terms of **time**. 
 
 **Figure 1**: Time execution and Stock Performance for _2017_ in Refactored Script
 
