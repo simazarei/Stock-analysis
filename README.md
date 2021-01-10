@@ -30,4 +30,5 @@ The execution time for _Original Script_ of VBA for _2017_ is _13267.19_ seconds
 2) It may cause bugs in the script
 3) It may be time consuming to refactor code scripts written by someone else
 ## Pros and Cons of refactoring the original VBA script
-Refactoring the original VBA script was time consuming and we wrote all the detaile and reson behind each line of VBA scriprt, it caused some bugs in the script while refactoring it. However at the end, it made the Macro faster and more efficient, the script became more readalbe for furthur modification. In addition it increased the maintainability of the script.
+Pros to be mentioned for refactoring is that by adding tickerIndex to the script it preventes Macro from having duplicated variables and reduces the number of times that the script is running the loop throughout the Worksheet. By adding more detaile to each line of the script we increased the maintainability of the script.
+Refactoring the original VBA script has its own coms too first one is that it was time consuming and we wrote all the detaile and reason behind each line of VBA scriprt, it caused some bugs in the script while refactoring it.By reducing duplicated variables and adding tickerIndex the script became more complicated and harder to understand for furthur maintainance for people with lower knowledge of VBA.
