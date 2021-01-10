@@ -10,8 +10,11 @@ By end of 2018 the return rate for many of stocks depreciated which shows instab
 The execution time for original script of VBA for 2017 is 84458.17 seconds and in 2018 it is 84614.85 seconds. But the rafactored script for 2017 and 2018 ran in 1.328125 and 1.023438 seconds.
 
 Figure 1: Time execution and Stock Performance for 2017 in Refactored Script
+
 ![](Resources/VBA_Challenge_2017.png)
+
 Figure 2: Time execution and Stock Performance for 2018 in Refactored Script
+
 ![](Resources/VBA_Challenge_2018.png)
 
 ## Summary:
