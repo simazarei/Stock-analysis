@@ -8,6 +8,7 @@ Comparing the Return rate of different stocks in 2017 Almost all green energy ma
 By end of 2018 the return rate for many of stocks depreciated which shows instability, flactuation and high rate of risk for investors. In the particular case of DQ eventhough the daily volume of shares traded increased by almost 3 times, the return rate of -62% which is the lowest of all, does not seem to be good investment for investors and also Steve's parents. Although for ENPH after dropping the return rate form 129% in 2017 to 81% in 2018 and RUN from 5% to 84% seem to be a better fit to invest in green energy stocks.
 ### Time Execution Analysis
 The execution time for original script of VBA for 2017 is 84458.17 seconds and in 2018 it is 84614.85 seconds. But the rafactored script for 2017 and 2018 ran in 1.328125 and 1.023438 seconds.
+
 Figure 1: Time execution and Stock Performance for 2017 in Refactored Script
 ![](Resources/VBA_Challenge_2017.png)
 Figure 2: Time execution and Stock Performance for 2018 in Refactored Script
