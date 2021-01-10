@@ -13,11 +13,11 @@ The execution time for _Original Script_ of VBA for _2017_ is _13267.19_ seconds
 
 **Figure 1**: Time execution and Stock Performance for _2017_ in Refactored Script
 
-
+![](Resources/VBA_Challenge_2017.png)
 
 **Figure 2**: Time execution and Stock Performance for _2018_ in Refactored Script
 
-
+![](Resources/VBA_Challenge_2018.png)
 
 
 ## Advantages and Disadvantages of refactoring code
